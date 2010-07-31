@@ -27,7 +27,7 @@ print '<?xml version="1.0" encoding="UTF-8"?>'
 print '<station>'
 
 for station in iterator:
-    if ("%.2f" % float(latlon[0])) == ("%.2f" % float(station.group(3))) and ("%.2f" % float(latlon[1])) == ("%.2f" % float(station.group(4))):
+    if ("%.4f" % float(latlon[0])) == ("%.4f" % float(station.group(3))) and ("%.4f" % float(latlon[1])) == ("%.4f" % float(station.group(4))):
         print '<name>' + cgi.escape(station.group(2)) + '</name>'
         print '<bikes>' + station.group(5) + '</bikes>'
         print '<empty>' + station.group(6) + '</empty>'
