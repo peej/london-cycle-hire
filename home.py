@@ -8,6 +8,7 @@ print """
 <p><a href="/kml">Get the KML file</a>, updated every minute with live data</p>
 <form method="get" action="/station">
     <p>Get live station information</p>
+    <label>Station name: <input name="n" type="text" value="River Street , Clerkenwell"></label><br>
     <label>Station latitude: <input name="lat" type="text" value="51.52916347"></label><br>
     <label>Station longitude: <input name="lon" type="text" value="-0.109970527"></label><br>
     <input type="submit">
