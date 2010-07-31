@@ -1,0 +1,19 @@
+application: londoncyclehire
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: /_
+  static_dir: public
+
+- url: /
+  script: home.py
+  
+- url: /kml
+  script: kml.py
+  
+- url: /station
+  script: station.py
+  
