@@ -18,7 +18,7 @@ print '<name>London Cycle Hire</name>'
 print '<description>List of stations and their availability</description>'
 
 for station in iterator:
-    print '<Placemark>'
+    print '<Placemark id="' + station.group(1) + '">'
     print '<name>' + cgi.escape(station.group(2)) + '</name>'
     print '<description><![CDATA['
     print '<p>Number of bikes: ' + station.group(5) + '</p>'

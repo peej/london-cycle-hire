@@ -1,25 +1,32 @@
-import urllib2, re
+import urllib2, re, time
 from google.appengine.api import memcache
 import google.appengine.api.urlfetch_errors
-
+from google.appengine.api import urlfetch
 
 url = "https://web.barclayscyclehire.tfl.gov.uk/maps"
 
-
 def getBodyFromSource():
-    http = urllib2.urlopen(url)
-    body = http.read()
-    http.close()
-    memcache.add(key="body", value=body)
+    #http = urllib2.urlopen(url)
+    #body = http.read()
+    #http.close()
+    
+    body = None
+    
+    result = urlfetch.fetch(url, headers = {'Cache-Control': 'max-age=60'})
+    if result.status_code == 200:
+        body = result.content
+        memcache.set(key="body", value=body)
+        
     return body
 
 def getBodyFromMemcache():
     body = memcache.get("body")
+    #body = None
     if body is None:
         try:
             body = getBodyFromSource()
-        except DownloadError:
-            print "Could not load data, sorry I tried reall hard"
+        except google.appengine.api.urlfetch_errors.DownloadError:
+            print "Could not load data, sorry I tried really hard"
             exit()
     return body
 
@@ -29,7 +36,7 @@ def getBody():
         memcache.add(key="time", value=True, time=60)
         try:
             return getBodyFromSource()
-        except DownloadError:
+        except google.appengine.api.urlfetch_errors.DownloadError:
             return getBodyFromMemcache()
         
     else:
