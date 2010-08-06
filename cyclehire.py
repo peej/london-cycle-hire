@@ -6,13 +6,14 @@ from google.appengine.api import urlfetch
 url = "https://web.barclayscyclehire.tfl.gov.uk/maps"
 
 def getBodyFromSource():
-    #http = urllib2.urlopen(url)
-    #body = http.read()
-    #http.close()
     
     body = None
     
-    result = urlfetch.fetch(url, headers = {'Cache-Control': 'max-age=60'})
+    result = urlfetch.fetch(url, headers = {
+        'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.125 Safari/533.4',
+        'Cookie': 'lchssession=pjlp17o7lebjjls6j0o5cfsv93; lchscookie=LDRM4pwHV9mRXksrlxsKZHUNJJf5D/MU0vfDBZXmroDA9uhCK61eu3uFr/NSwcgvpdmqQxQRksCsYg==; TS7a8c97=e54430b2bc1cbb70decaf7049c2ea192e322cbf2c6cc76f84c5c57d2d8ab25303643aa8bea3035484c09c470; CP=null*; ccokieenable'
+    })
+    
     if result.status_code == 200:
         body = result.content
         memcache.set(key="body", value=body)
