@@ -11,13 +11,13 @@ def getBodyFromSource():
     
     result = urlfetch.fetch(url, headers = {
         'User-Agent': 'Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.125 Safari/533.4',
-        'Cookie': 'lchssession=pjlp17o7lebjjls6j0o5cfsv93; lchscookie=LDRM4pwHV9mRXksrlxsKZHUNJJf5D/MU0vfDBZXmroDA9uhCK61eu3uFr/NSwcgvpdmqQxQRksCsYg==; TS7a8c97=e54430b2bc1cbb70decaf7049c2ea192e322cbf2c6cc76f84c5c57d2d8ab25303643aa8bea3035484c09c470; CP=null*; ccokieenable'
+        'Cookie': 'lchssession=ptg3rt7agfjn1o0fb97h5ucu30; lchscookie=8GWR+vVYVvgA4zorlxsKZHUNJJf5D3yP0alCje16Wook/8LycoQ1kp4ChDilU7ERP5PsoD1qr9fL+g==; TS7a8c97=a453e668928323c382383038186169ba1ef6bf3601842a764c5c7eb2d8ab25308e56355aea3035482dbd56d6'
     })
     
     if result.status_code == 200:
         body = result.content
         memcache.set(key="body", value=body)
-        
+    
     return body
 
 def getBodyFromMemcache():

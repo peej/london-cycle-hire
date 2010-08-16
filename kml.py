@@ -7,8 +7,8 @@ hour = getHour(body)
 
 iterator = getStations(body)
 
-#print "Content-Type: application/vnd.google-earth.kml+xml"
-print "Content-Type: text/plain"
+print "Content-Type: application/vnd.google-earth.kml+xml"
+#print "Content-Type: text/plain"
 print "Cache-Control: max-age=60, must-revalidate"
 print
 print '<?xml version="1.0" encoding="UTF-8"?>'

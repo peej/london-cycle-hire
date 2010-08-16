@@ -1,0 +1,3726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>London Cycle Hire</name>
+<description>List of stations and their availability</description>
+<Placemark id="1">
+<name>River Street , Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.109970527,51.52916347,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="2">
+<name>Phillimore Gardens, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 26</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.197574246,51.49960695,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="3">
+<name>Christopher Street, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.084605692,51.52128377,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="4">
+<name>St. Chad's Street, King's Cross</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.120973687,51.53005939,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="5">
+<name>George Place Mews, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.158249929,51.51689296,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="6">
+<name>Broadcasting House, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.144228881,51.51811784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="7">
+<name>Charlbert Street, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.1680743,51.53430039,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="8">
+<name>Lodge Road, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.170134484,51.52834133,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="9">
+<name>New Globe Walk, Bankside</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.096440751,51.5073853,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="10">
+<name>Park Street, Bankside</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.092754157,51.50597426,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="11">
+<name>Brunswick Square, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.122502346,51.52395143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="12">
+<name>Malet Street, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 26</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.130431727,51.52168078,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="13">
+<name>Scala Street, Fitzrovia</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.136039674,51.51991453,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="14">
+<name>Belgrove Street , King's Cross</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.123616824,51.52994371,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="15">
+<name>Great Russell Street, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.127854211,51.51772703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="16">
+<name>Cartwright Gardens , Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.125979294,51.52635795,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="17">
+<name>Hatton Wall, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.109006325,51.5216612,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="18">
+<name>Drury Lane, Covent Garden</name>
+<description><![CDATA[
+<p>Number of bikes: 20</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.12221963,51.51477076,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="19">
+<name>Taviton Street, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.131161087,51.52505093,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="20">
+<name>Drummond Street , Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.135273468,51.52773634,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="21">
+<name>Hampstead Road (Cartmel), Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.13884627,51.53007835,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="22">
+<name>Northington Street , Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.114079481,51.5222641,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="23">
+<name>Red Lion Square, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.119123345,51.51943538,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="24">
+<name>British Museum, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 23</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.124678402,51.51908011,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="25">
+<name>Doric Way , Somers Town</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132250369,51.5288338,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="26">
+<name>Ampton Street , Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.11829517,51.52728093,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="27">
+<name>Bouverie Street, Temple</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.107927706,51.51382102,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="28">
+<name>Bolsover Street, Fitzrovia</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.143613641,51.52351808,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="29">
+<name>Eversholt Street , Camden Town</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.136792671,51.53300545,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="30">
+<name>Windsor Terrace, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.093421615,51.52915444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="31">
+<name>Fanshaw Street, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 27</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.083353323,51.52953709,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="32">
+<name>Leonard Circus , Shoreditch</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.084439283,51.52469624,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="33">
+<name>Altab Ali Park, Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 3</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.067827542,51.51681603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="34">
+<name>Pancras Road, King's Cross</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.129386874,51.5341235,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="35">
+<name>St. George Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.142783033,51.51196,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="36">
+<name>De Vere Gardens, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.184980612,51.50173726,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="37">
+<name>Penywern Road, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.192369256,51.49159394,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="38">
+<name>Abingdon Villas, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.197245586,51.4973875,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="39">
+<name>Shoreditch High Street, Shoreditch</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.078130921,51.5263778,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="40">
+<name>Commercial Street, Shoreditch</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.0755789,51.52127071,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="41">
+<name>Sun Street, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.083911168,51.52001715,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="42">
+<name>Wenlock Road , Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.093903825,51.53099181,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="43">
+<name>Crawford Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.157183945,51.52026,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="44">
+<name>Bruton Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.144165239,51.51073687,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="45">
+<name>Harewood Avenue, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.163849118,51.52231968,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="46">
+<name>Penfold Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.171681991,51.52289229,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="47">
+<name>Warwick Avenue Station, Maida Vale</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.183846408,51.52334476,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="48">
+<name>Godliman Street, St. Paul's</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.099141408,51.51248445,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="49">
+<name>Curzon Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.145904427,51.50706909,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="50">
+<name>East Road, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 26</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.087459376,51.52867339,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="51">
+<name>Finsbury Library , Finsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.104298194,51.52671796,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="52">
+<name>Roscoe Street, St. Luke's</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.094934859,51.52295439,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="53">
+<name>Grafton Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.143495266,51.5099923,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="54">
+<name>Golden Lane, Barbican</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 25</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.094475072,51.52174785,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="55">
+<name>Finsbury Circus, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.086685542,51.51707521,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="56">
+<name>Paddington Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.154701411,51.52058381,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="57">
+<name>Guilford Street , Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.120202614,51.52334672,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="58">
+<name>New Inn Yard, Shoreditch</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.079248081,51.52452699,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="59">
+<name>Rodney Street, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.114329032,51.53176825,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="60">
+<name>Lisson Grove, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.172190727,51.52644828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="61">
+<name>Great Dover Street, Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 23</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.089446947,51.49738251,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="62">
+<name>Cotton Garden Estate, Kennington</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.106323685,51.4907579,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="63">
+<name>Murray Grove , Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.089782579,51.53089041,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="64">
+<name>William IV Street, Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 25</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.124749274,51.50946212,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="65">
+<name>Gower Place , Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.13518856,51.52522753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="66">
+<name>Holborn Circus, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 28</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.108657431,51.51795029,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="67">
+<name>Hatton Garden, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 26</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.108028472,51.51882555,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="68">
+<name>Theobalds Road , Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 22</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.116688468,51.52059681,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="69">
+<name>Euston Road, Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.134407652,51.5262363,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="70">
+<name>Calshot Street , King's Cross</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.117069978,51.53136059,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="71">
+<name>Newgate Street , St. Paul's</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.098850915,51.5154186,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="72">
+<name>Farringdon Lane, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.108340165,51.52352001,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="73">
+<name>Old Street Station, St. Luke's</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.088486188,51.52572618,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="74">
+<name>Vauxhall Cross, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.124469948,51.48591714,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="75">
+<name>Torrens Street, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.105480698,51.53219984,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="76">
+<name>Longford Street, Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.144083893,51.52559505,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="77">
+<name>Russell Square Station, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.124121774,51.52341837,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="78">
+<name>Sadlers Sports Centre, Finsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.099489485,51.52486887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="79">
+<name>Wansey Street, Walworth</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.097146479,51.49118143,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="80">
+<name>Webber Street , Southwark</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.102091246,51.50069361,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="81">
+<name>Great Titchfield Street, Fitzrovia</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.141327271,51.52025302,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="82">
+<name>Gloucester Road Station, South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.18267094,51.49418566,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="83">
+<name>Panton Street, West End</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.131510949,51.50963938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="84">
+<name>Breams Buildings, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.111778348,51.51593725,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="85">
+<name>Tanner Street, Bermondsey</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.078600401,51.50064702,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="86">
+<name>Sancroft Street, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.115156562,51.48947903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="87">
+<name>Devonshire Square, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.079684557,51.51646835,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="88">
+<name>Bayley Street , Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132053392,51.51858757,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="89">
+<name>Tavistock Place, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.123509611,51.5262503,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="90">
+<name>Harrington Square, Camden Town</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.139174593,51.53301907,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="91">
+<name>Walnut Tree Walk, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.111014912,51.49368637,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="92">
+<name>Borough Road, Elephant &amp; Castle</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.100440521,51.49889832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="93">
+<name>Cloudesley Road, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.109025404,51.53440868,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="94">
+<name>Bricklayers Arms, Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 22</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.085814489,51.49506109,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="95">
+<name>Aldersgate Street, Barbican</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.097340162,51.5208417,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="96">
+<name>Falkirk Street, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.078505384,51.53095071,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="97">
+<name>Gloucester Road (North), Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.183834706,51.49792478,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="98">
+<name>Hampstead Road, Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 20</p>
+<p>Number of empty docks: 34</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138231303,51.52554222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="99">
+<name>Old Quebec Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.158264483,51.51457763,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="100">
+<name>Albert Embankment, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.122806861,51.49043573,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="101">
+<name>Queen Street, Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.0929401,51.51155322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="102">
+<name>Jewry Street, Aldgate</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.076793375,51.51340693,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="103">
+<name>Vicarage Gate, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.192538767,51.50472376,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="105">
+<name>Westbourne Grove, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.190240716,51.51552971,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="106">
+<name>Woodstock Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 18</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.147301667,51.51410514,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="107">
+<name>Finsbury Leisure Centre, St. Luke's</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.096317627,51.52600832,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="108">
+<name>Abbey Orchard Street, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132102166,51.49812559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="109">
+<name>Soho Square , Soho</name>
+<description><![CDATA[
+<p>Number of bikes: 23</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132328837,51.51563144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="110">
+<name>Wellington Road, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.172528678,51.53304322,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="111">
+<name>Park Lane , Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.157275636,51.5100172,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="112">
+<name>Stonecutter Street, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.105270275,51.51580998,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="113">
+<name>Gloucester Road (Central), South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.183289032,51.49646288,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="114">
+<name>Park Road (Baker Street), Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.158963647,51.52451738,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="115">
+<name>Braham Street, Aldgate</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.073537654,51.51423368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="116">
+<name>Little Argyll Street, West End</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.141423695,51.51449962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="117">
+<name>Lollard Street, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.114934001,51.49288067,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="118">
+<name>Rochester Row, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.13547809,51.49582705,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="119">
+<name>Bath Street, St. Luke's</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.090847761,51.52589324,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="120">
+<name>The Guildhall, Guildhall</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.093080779,51.51573534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="121">
+<name>Baker Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.156166631,51.51891348,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="122">
+<name>Norton Folgate, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.078869751,51.52111369,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="123">
+<name>St. John Street, Finsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.104724625,51.52836014,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="124">
+<name>Eaton Square, Belgravia</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.150905245,51.49654462,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="125">
+<name>Borough High Street, The Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.094524319,51.50069491,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="126">
+<name>Museum of London, Barbican</name>
+<description><![CDATA[
+<p>Number of bikes: 18</p>
+<p>Number of empty docks: 34</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.096496865,51.51782144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="127">
+<name>Wood Street, Guildhall</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.09388536,51.51700801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="128">
+<name>Emperor's Gate, South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.185296516,51.49536226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="129">
+<name>Golden Square, Soho</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.137043852,51.5118973,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="130">
+<name>Tower Gardens , Tower</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.075459482,51.50950627,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="131">
+<name>Natural History Museum, South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 27</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.179077626,51.49559291,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="132">
+<name>Bethnal Green Road, Shoreditch</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.074754872,51.52364804,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="133">
+<name>Derry Street, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.191462381,51.50136494,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="134">
+<name>Wapping High Street, Wapping</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.067820689,51.50482186,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="135">
+<name>Clerkenwell Green, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.104708922,51.52326004,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="136">
+<name>Queen Victoria Street, St. Paul's</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.097441687,51.51196176,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="137">
+<name>Bourne Street, Belgravia</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.153319609,51.49087475,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="138">
+<name>Green Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.157436972,51.51227622,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="139">
+<name>Lambeth Road, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.117974901,51.49488108,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="140">
+<name>Finsbury Square , Moorgate</name>
+<description><![CDATA[
+<p>Number of bikes: 18</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.085634242,51.52096262,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="141">
+<name>Chapel Place, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.147203711,51.51530805,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="142">
+<name>West Cromwell Road, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.198286569,51.49372451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="143">
+<name>Pont Street, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.161203828,51.4968865,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="144">
+<name>Kennington Cross, Kennington</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.111435796,51.48894022,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="145">
+<name>Ilchester Place, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.202759212,51.50074359,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="146">
+<name>Vauxhall Bridge , Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.129361842,51.48836528,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="147">
+<name>Portugal Street, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.11614642,51.51494305,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="148">
+<name>Turquoise Island, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.200838199,51.51431171,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="149">
+<name>Kennington Road Post Office, Oval</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.110683213,51.48478899,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="150">
+<name>Holy Trinity Brompton, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.168917077,51.49705603,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="151">
+<name>Chepstow Villas, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.201554966,51.51213691,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="152">
+<name>Hampton Street, Walworth</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.101536865,51.49217002,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="153">
+<name>Bayswater Road, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 26</p>
+<p>Number of empty docks: 0</p>
+<p><strong>Station not in operation</strong></p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.174292825,51.51183419,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="154">
+<name>Howick Place, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138733562,51.49675303,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="155">
+<name>Lexham Gardens, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.191933711,51.49586666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="156">
+<name>New Kent Road, Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 18</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.092921165,51.49443626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="157">
+<name>Wright's Lane, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 27</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.193068385,51.50039792,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="158">
+<name>Trebovir Road, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.196170309,51.49085368,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="159">
+<name>Great Marlborough Street, Soho</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.137841333,51.51461995,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="161">
+<name>Guildhouse Street, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.141334487,51.49234577,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="162">
+<name>Southampton Place, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.121328408,51.51760685,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="163">
+<name>Sloane Avenue, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.167894973,51.4931848,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="164">
+<name>Cleveland Gardens, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.183118788,51.515607,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="165">
+<name>Orsett Terrace, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.183716959,51.517932,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="166">
+<name>Seville Street, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 27</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.159237081,51.50185512,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="167">
+<name>Eccleston Place, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.147624377,51.49395092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="168">
+<name>Argyll Road, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.195455928,51.50040123,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="169">
+<name>Porchester Place, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.165164288,51.51474612,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="170">
+<name>Hardwick Street, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.108068155,51.52784273,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="171">
+<name>Collingham Gardens, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.186753859,51.4916156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="172">
+<name>Sumner Place, South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 3</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.173715911,51.49121192,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="173">
+<name>Tachbrook Street, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138364847,51.49211134,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="174">
+<name>Cheapside, Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.093117578,51.51389139,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="175">
+<name>Appold Street, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.0811189,51.52174384,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="176">
+<name>Gloucester Terrace, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.188098863,51.51791921,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="177">
+<name>Ashley Place, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.140947636,51.49616092,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="178">
+<name>Warwick Square, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.141923621,51.48985626,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="179">
+<name>Pall Mall , St. James's</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.136707453,51.50573451,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="180">
+<name>North Audley Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.153645496,51.5129118,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="181">
+<name>Belgrave Square, Belgravia</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.152317537,51.49941247,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="182">
+<name>Bell Street , Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.165842551,51.52202903,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="183">
+<name>Milford Lane, Temple</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.112988179,51.51201016,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="184">
+<name>Portland Place, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.14521173,51.52071513,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="185">
+<name>Alderney Street, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 3</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.140741432,51.48805753,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="186">
+<name>South Wharf Road, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.175810943,51.51733558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="187">
+<name>Queen's Gate (South), South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 20</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.178433004,51.49247977,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="188">
+<name>Nutford Place, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.164393768,51.5165179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="189">
+<name>Claremont Square, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.109914711,51.53166681,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="190">
+<name>Rampayne Street, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132845681,51.48997562,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="191">
+<name>Hyde Park Corner, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.153520935,51.50311799,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="192">
+<name>Wardour Street, Soho</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.133201961,51.51251523,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="193">
+<name>Bankside Mix, Bankside</name>
+<description><![CDATA[
+<p>Number of bikes: 32</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.100186337,51.50581776,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="194">
+<name>Hop Exchange, The Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 32</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.091773776,51.50462759,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="195">
+<name>Milroy Walk, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.106237501,51.50724437,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="196">
+<name>Union Street, The Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.098497684,51.50368837,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="197">
+<name>Stamford Street, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.111606696,51.50556905,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="199">
+<name>Great Tower Street, Monument</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.082989638,51.51048489,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="200">
+<name>LMU Commercial Road, Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.066078037,51.51492456,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="201">
+<name>Dorset Square, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.161113413,51.5225965,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="202">
+<name>Leman Street, Aldgate</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.06954201,51.51236389,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="203">
+<name>West Smithfield Rotunda, Farringdon</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.100791005,51.51821864,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="204">
+<name>Margery Street, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 0</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.112432615,51.52659961,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="205">
+<name>New Road  2, Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.06275,51.518144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="206">
+<name>New Road 1 , Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 30</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.062697,51.518154,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="207">
+<name>Grosvenor Crescent, Belgravia</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.153194766,51.50135267,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="208">
+<name>Mallory Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.166304359,51.52505151,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="209">
+<name>Denyer Street, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.165101392,51.49358391,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="210">
+<name>Hinde Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.151926305,51.51681444,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="211">
+<name>Cadogan Place, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.158105512,51.49464523,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="212">
+<name>Campden Hill Road, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.199004026,51.50658458,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="213">
+<name>Wellington Arch, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 33</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.149569201,51.50274025,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="214">
+<name>Endsleigh Gardens, Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 23</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.130504336,51.52683806,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="215">
+<name>Moorfields, Moorgate</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.088285377,51.51906932,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="216">
+<name>Old Brompton Road, South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.181190899,51.49094565,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="217">
+<name>Wormwood Street, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.082422399,51.51615461,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="218">
+<name>St. Luke's Church, Chelsea</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.170194408,51.48971651,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="219">
+<name>Bramham Gardens, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.19039362,51.49016361,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="220">
+<name>Chelsea Green, Chelsea</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.166485083,51.49066456,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="221">
+<name>Horseferry Road, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.13045856,51.49481649,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="222">
+<name>Knightsbridge, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 22</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.155349725,51.50275704,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="223">
+<name>Rodney Road , Walworth</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 23</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.090220911,51.49148474,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="224">
+<name>Whiteley's, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.188129731,51.51476963,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="225">
+<name>Notting Hill Gate Station, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.196396821,51.50935879,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="226">
+<name>Charles II Street, West End</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.131961389,51.50844614,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="227">
+<name>Great Percy Street, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.115480888,51.52891573,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="228">
+<name>St. James's Square, St. James's</name>
+<description><![CDATA[
+<p>Number of bikes: 37</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.134621209,51.50742485,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="229">
+<name>Whitehall Place, Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 41</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.123179697,51.50654321,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="230">
+<name>Poured Lines, Bankside</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.103137426,51.50669284,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="231">
+<name>Queen's Gate (Central), South Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 26</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.17873226,51.49396755,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="232">
+<name>Carey Street, Holborn</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.112753217,51.51501025,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="233">
+<name>Pall Mall East, West End</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.130699733,51.50777049,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="234">
+<name>Liverpool Road (N1 Centre), Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.106992706,51.53450449,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="235">
+<name>Kennington Road  , Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 26</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.110889274,51.49571828,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="236">
+<name>Fashion Street, Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.073438925,51.51838043,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="237">
+<name>Vaughan Way, Wapping</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.067176443,51.5084448,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="238">
+<name>Frampton Street, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 23</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.175116099,51.5233534,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="239">
+<name>Warren Street Station, Euston</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138019439,51.52443845,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="240">
+<name>Colombo Street, Southwark</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.10569204,51.50545935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="241">
+<name>Eaton Gate, Belgravia</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.15460608,51.4941646,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="242">
+<name>Beaumont Street, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.151359288,51.52200801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="243">
+<name>Gloucester Street, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.139625122,51.49096258,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="244">
+<name>Earnshaw Street , Covent Garden</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.128585022,51.51611887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="245">
+<name>Grosvenor Road, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.142207481,51.4853572,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="246">
+<name>Berry Street, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 0</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.099994052,51.52285301,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="247">
+<name>St. John's Wood Church, Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 31</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.160854428,51.53589283,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="248">
+<name>Triangle Car Park, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 23</p>
+<p>Number of empty docks: 4</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.170279555,51.50645179,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="249">
+<name>Harper Road, Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 32</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.096191134,51.49859784,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="250">
+<name>Royal Avenue 1, Chelsea</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.162727,51.489932,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="251">
+<name>Brushfield Street, Liverpool Street</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.07448954,51.50667819,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="252">
+<name>Jubilee Gardens, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.116542278,51.5046364,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="253">
+<name>Shoreditch Park, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 24</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.086379717,51.53404294,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="254">
+<name>Chadwell Street, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.106408455,51.53051587,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="255">
+<name>Clifton Road, Maida Vale</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.179592915,51.52557531,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="256">
+<name>Houghton Street, Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 0</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.116764211,51.51362054,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="257">
+<name>Westminster University, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.154907218,51.52248185,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="258">
+<name>Kensington Gore, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.178656971,51.50143293,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="260">
+<name>Broadwick Street, Soho</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.135580879,51.5136846,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="261">
+<name>Princes Square, Bayswater</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.191351186,51.5134891,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="262">
+<name>LSBU (Borough Road), Elephant &amp; Castle</name>
+<description><![CDATA[
+<p>Number of bikes: 27</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.103132904,51.49874469,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="263">
+<name>St. Mary Axe, Aldgate</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.080660083,51.51422502,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="264">
+<name>Tysoe Street, Clerkenwell</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.109256828,51.52644342,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="265">
+<name>Southwick Street, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.169249375,51.51595344,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="266">
+<name>Queen's Gate (North), Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.180246101,51.50102668,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="267">
+<name>Regency Street, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.132224622,51.49206037,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="268">
+<name>Belgrave Road, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 26</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.144132875,51.49320445,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="269">
+<name>Empire Square, The Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 30</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.089740764,51.50082346,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="270">
+<name>Kennington Lane Rail Bridge, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.122492418,51.4863434,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="272">
+<name>Baylis Road, Waterloo</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.110699309,51.50144456,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="273">
+<name>Belvedere Road, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 38</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.114686385,51.50613324,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="274">
+<name>Warwick Road, Olympia</name>
+<description><![CDATA[
+<p>Number of bikes: 21</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.20528437,51.49671237,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="275">
+<name>Barbican Centre, Barbican</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.092176447,51.52004497,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="276">
+<name>Lower Thames Street, Monument</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.084985356,51.50930161,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="277">
+<name>Kensington Church Street, Kensington</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.191496313,51.50315739,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="278">
+<name>Tooley Street, Bermondsey</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.07962099,51.5034938,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="279">
+<name>North Wharf Road, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.176645823,51.51862243,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="280">
+<name>Royal Avenue 2, Chelsea</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 0</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.162418,51.490083,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="281">
+<name>Smith Square, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.127575233,51.49580589,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="282">
+<name>Royal London Hospital, Whitechapel</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.059642081,51.51906446,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="283">
+<name>Kingsway, Covent Garden</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.118478757,51.51440928,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="284">
+<name>Lambeth North Station, Waterloo</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.112031483,51.49914063,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="285">
+<name>Royal Mews, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.143822338,51.49796594,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="286">
+<name>St. John's Wood Road, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 25</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.174653609,51.5272947,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="287">
+<name>Bedford Way, Bloomsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.128377673,51.52367314,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="288">
+<name>Elizabeth Bridge, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 22</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.147478734,51.49236962,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="289">
+<name>South Audley Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.151296092,51.50923022,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="290">
+<name>Winsland Street, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.175488803,51.51678023,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="291">
+<name>Claverton Street, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 18</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138089062,51.48483991,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="292">
+<name>Montpelier Street, Knightsbridge</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.165471605,51.49888404,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="293">
+<name>Kensington Olympia Station, Olympia</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.209494128,51.49815779,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="294">
+<name>St. George's Square, Pimlico</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.135635511,51.488226,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="295">
+<name>Swan Street, The Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.092762704,51.50029631,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="296">
+<name>Knaresborough Place, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.190603326,51.49363156,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="297">
+<name>Geraldine Street, Elephant &amp; Castle</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.106000855,51.49612799,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="298">
+<name>Curlew Street, Shad Thames</name>
+<description><![CDATA[
+<p>Number of bikes: 4</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.074189225,51.50227992,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="299">
+<name>Vincent Square, Westminster</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.136928582,51.49398524,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="300">
+<name>Serpentine Car Park, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.172729559,51.50501351,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="301">
+<name>Marylebone Lane, Marylebone</name>
+<description><![CDATA[
+<p>Number of bikes: 19</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.148105415,51.51475963,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="302">
+<name>Fore Street Avenue, Guildhall</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.090425216,51.51791977,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="303">
+<name>Albert Gate, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.158456089,51.50295379,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="304">
+<name>Cumberland Gate, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.16209757,51.51211869,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="305">
+<name>Kennington Lane Tesco, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 3</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.115853961,51.48677988,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="307">
+<name>Black Lion Gate, Kensington Gardens</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.187842717,51.50990837,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="308">
+<name>Long Lane , Bermondsey</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 14</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.085666316,51.49907558,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="309">
+<name>Embankment (Savoy), Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 29</p>
+<p>Number of empty docks: 13</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.119047563,51.50963123,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="310">
+<name>Black Prince Road, Vauxhall</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 5</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.116911864,51.4908679,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="311">
+<name>Foley Street, Fitzrovia</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.140485596,51.51918144,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="312">
+<name>Grove End Road, St. John's Wood</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.176770502,51.53088935,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="313">
+<name>Wells Street, Fitzrovia </name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 30</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138072691,51.51734403,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="314">
+<name>Tyers Gate, Bermondsey</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 21</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.083159352,51.50088934,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="315">
+<name>The Tennis Courts, Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.153463612,51.52536703,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="316">
+<name>Palace Gate, Kensington Gardens</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.184400221,51.50204238,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="317">
+<name>Dickens Square, Borough</name>
+<description><![CDATA[
+<p>Number of bikes: 7</p>
+<p>Number of empty docks: 25</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.093913472,51.49679128,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="318">
+<name>Sackville Street, Mayfair</name>
+<description><![CDATA[
+<p>Number of bikes: 2</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.138846453,51.51004801,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="319">
+<name>Baldwin Street, St. Luke's</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.088542771,51.52702563,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="320">
+<name>Queen Mother Sports Centre, Victoria</name>
+<description><![CDATA[
+<p>Number of bikes: 24</p>
+<p>Number of empty docks: 2</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.139956043,51.49357351,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="321">
+<name>Bermondsey Street, Bermondsey</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 17</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.081608045,51.49785559,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="322">
+<name>Speakers' Corner 1, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 13</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.160785,51.51222,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="323">
+<name>Speakers' Corner 2, Hyde Park</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 11</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.159988,51.512303,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="324">
+<name>Ontario Street, Elephant &amp; Castle</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 3</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.101384068,51.49652013,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="325">
+<name>St. Martin's Street, West End</name>
+<description><![CDATA[
+<p>Number of bikes: 9</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.129697889,51.50908747,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="326">
+<name>Graham Street, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.099981142,51.53266186,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="327">
+<name>New North Road 1, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.086016,51.53114,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="328">
+<name>New North Road 2, Hoxton</name>
+<description><![CDATA[
+<p>Number of bikes: 10</p>
+<p>Number of empty docks: 12</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.085603,51.53095,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="329">
+<name>Prince Albert Road, Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 16</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.160854428,51.53589283,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="330">
+<name>Eastbourne Mews, Paddington</name>
+<description><![CDATA[
+<p>Number of bikes: 15</p>
+<p>Number of empty docks: 19</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.179135079,51.51641749,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="331">
+<name>Bunhill Row, Moorgate</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 24</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.089887855,51.52085887,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="332">
+<name>Nevern Place, Earl's Court</name>
+<description><![CDATA[
+<p>Number of bikes: 5</p>
+<p>Number of empty docks: 15</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.194757949,51.49334336,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="333">
+<name>Palace Gardens Terrace, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.193764092,51.50860544,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="334">
+<name>Concert Hall Approach 1, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 1</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.115851,51.505044,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="335">
+<name>Tavistock Street, Covent Garden</name>
+<description><![CDATA[
+<p>Number of bikes: 25</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.120718759,51.51196803,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="336">
+<name>Concert Hall Approach 2, South Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 12</p>
+<p>Number of empty docks: 6</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.115533,51.504942,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="337">
+<name>Pembridge Road, Notting Hill</name>
+<description><![CDATA[
+<p>Number of bikes: 6</p>
+<p>Number of empty docks: 10</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.197524944,51.51108452,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="338">
+<name>Wellington Street , Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 14</p>
+<p>Number of empty docks: 1</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.119643424,51.51175646,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="339">
+<name>Risinghill Street, Angel</name>
+<description><![CDATA[
+<p>Number of bikes: 17</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.111781191,51.5333196,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="340">
+<name>Bank of England Museum, Bank</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 8</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.087587447,51.51444134,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="341">
+<name>Craven Street, Strand</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.12602103,51.50810309,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="343">
+<name>Gloucester Slips Car Park, Regent's Park</name>
+<description><![CDATA[
+<p>Number of bikes: 16</p>
+<p>Number of empty docks: 20</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.150181444,51.53692216,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="344">
+<name>Goswell Road (City Uni), Finsbury</name>
+<description><![CDATA[
+<p>Number of bikes: 8</p>
+<p>Number of empty docks: 9</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.10102611,51.528246,0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="345">
+<name>Flood Street, Chelsea</name>
+<description><![CDATA[
+<p>Number of bikes: 11</p>
+<p>Number of empty docks: 7</p>
+<p>Last updated at: 14:22</p>
+]]></description>
+<Point>
+<coordinates>-0.166878535,51.48802358,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>

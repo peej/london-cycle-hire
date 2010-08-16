@@ -5,6 +5,7 @@ print """
 </head>
 <body>
 <h1>London Cycle Hire</h1>
+<p><a href="/visual">View the visualisation</a></p>
 <p><a href="/kml">Get the KML file</a>, updated every minute with live data</p>
 <form method="get" action="/station">
     <p>Get live station information</p>

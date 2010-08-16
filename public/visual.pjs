@@ -1,0 +1,172 @@
+
+var startDate = new Date(2010, 7, 9, 0, 0, 0, 0);
+
+//*
+var debug = false;
+/*/
+var debug = true;
+//*/
+
+var width = 600;
+var height = 400;
+var borderWidth = 20;
+var borderHeight = 20;
+
+var nextLoadTimeout;
+var stations = [];
+var minLat, maxLat, minLng, maxLng;
+
+Marker[] markers = [];
+int totalMarkers = 0, numberOfMarkers = 0;
+
+void setup() {
+    size(width, height);
+    frameRate(15);
+    
+    $("input[type=text]").val(startDate.toDateString());
+    $("p").text(startDate.toString());
+    
+    $("form").submit(function () {
+        var newDate = new Date($("input[type=text]").val());
+        if (!isNaN(newDate.valueOf())) {
+            window.clearTimeout(nextLoadTimeout);
+            markers = [];
+            totalMarkers = 0;
+            numberOfMarkers = 0;
+            loadData(newDate);
+        }
+        return false;
+    });
+    
+    loadStations();
+    loadData(startDate);
+    
+    bg = loadImage("/_/map.png");
+}
+
+function loadStations() {
+    var url = "/kml";
+    if (debug) var url = "/_/stations.kml";
+    $.ajax({
+        async: false,
+        url: url,
+        success: function (data) {
+            $(data).find("Placemark").each(function () {
+                var station = $(this);
+                var coords = station.find("coordinates").text().split(",");
+                var lat = float(coords[1]);
+                var lng = float(coords[0]);
+                stations[station.attr("id")] = {
+                    lat: lat,
+                    lng: lng
+                };
+                if (minLat == null || lat < minLat) minLat = lat;
+                if (maxLat == null || lat > maxLat) maxLat = lat;
+                if (minLng == null || lng < minLng) minLng = lng;
+                if (maxLng == null || lng > maxLng) maxLng = lng;
+            });
+        }
+    });
+}
+
+function loadData(theDate) {
+    var url = "/data?t=" + parseInt(theDate.valueOf() / 1000);
+    if (debug) var url = "/_/test.xml";
+    $.get(url, {}, function (data) {
+        
+        $(data).find("event").each(function () {
+            
+            var event = $(this); 
+            var stationId = event.find("station").text();
+            var value = event.find("bikes").text();
+            
+            var lng = lng2coord(stations[stationId].lng);
+            var lat = lat2coord(stations[stationId].lat);
+            
+            addMarker(lat, lng, value);
+            
+        });
+        
+        var nextDate = new Date(theDate.valueOf() + 900000);
+        if (nextDate < new Date()) {
+            nextLoadTimeout = window.setTimeout(function () {
+                loadData(nextDate);
+            }, 1000);
+        }
+        
+        $("p").text(theDate.toString());
+    });
+}
+
+function lat2coord(lat) {
+    return height - ((lat - minLat) / (maxLat - minLat) * (height - borderHeight * 2) + borderHeight);
+}
+
+function lng2coord(lng) {
+    return (lng - minLng) / (maxLng - minLng) * (width - borderWidth * 2) + borderWidth;
+}
+
+function addMarker(lat, lng, value) {
+    markers[numberOfMarkers] = new Marker(
+        lng,
+        lat,
+        value
+    );
+    numberOfMarkers++;
+    if (numberOfMarkers > 1000) numberOfMarkers = 0;
+    if (totalMarkers <= 1000) totalMarkers++;
+}
+
+void draw() {
+    background(255);
+    
+    fill(0, 0, 0);
+    stroke(0, 0, 0);
+    strokeWeight(2);
+    $.each(stations, function () {
+        if (this.lng && this.lat) {
+            ellipse(lng2coord(this.lng), lat2coord(this.lat), 1, 1);
+        }
+    });
+    
+    for (int foo = 0; foo < totalMarkers; foo++) {
+        markers[foo].draw();
+    }
+}
+
+class Marker {
+    
+    float x;
+    float y;
+    int value;
+    int frame;
+    
+    Marker (float fx, float fy, int v) {
+        x = fx;
+        y = fy;
+        value = v;
+        frame = 0;
+    }
+    
+    void draw() {
+        
+        if (frame < 50) {
+            frame++;
+            
+            float radius = frame;
+            
+            noFill();
+            
+            int alpha = 255 - (frame * 5);
+            
+            if (value > 0) {
+                stroke(255, 0, 0, alpha);
+            } else {
+                stroke(0, 255, 0, alpha);
+            }
+            strokeWeight(value);
+            ellipse(x, y, radius, radius);
+        }
+    }
+}
+

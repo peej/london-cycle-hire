@@ -5,11 +5,22 @@ api_version: 1
 
 handlers:
 
+- url: /remote_api
+  script: $PYTHON_LIB/google/appengine/ext/remote_api/handler.py
+  login: admin
+  
 - url: /_
   static_dir: public
 
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+
 - url: /
   script: home.py
+  
+- url: /visual
+  script: visual.py
   
 - url: /kml
   script: kml.py
@@ -17,3 +28,8 @@ handlers:
 - url: /station
   script: station.py
   
+- url: /data
+  script: data.py
+  
+- url: /cron
+  script: cron.py
